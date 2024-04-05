@@ -19,4 +19,4 @@ Deze repository bevat een website die thuisbezorgd moet gaan vervangen voor klei
 
 ## Live Site
 
-Je kunt de live versie van deze website vinden op: [Flavorflow](https://tygojedema.xyz/flavorflow/).
+Je kunt de live versie van deze website vinden op: [Flavorflow](https://tygojedema.xyz/flavorflow/). (Nog niet!)
